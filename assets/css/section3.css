@@ -1,0 +1,56 @@
+.section3 {
+    color: #313437;
+    background-color: #fff;
+}
+
+.section3 p {
+    color: #7d8285;
+}
+
+.section3 h2 {
+    font-weight: bold;
+    margin-bottom: 40px;
+    padding-top: 40px;
+    color: #184e8e;
+}
+
+@media (max-width:767px) {
+    .section3 h2 {
+        margin-bottom: 25px;
+        padding-top: 25px;
+        font-size: 24px;
+    }
+}
+
+.section3 .intro {
+    font-size: 16px;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.section3 .intro p {
+    margin-bottom: 0;
+}
+
+.section3 .projects {
+    padding-bottom: 40px;
+}
+
+.section3 .item {
+    text-align: center;
+    padding-top: 50px;
+    min-height: 425px;
+}
+
+.section3 .item .name {
+    font-weight: bold;
+    margin-top: 28px;
+    margin-bottom: 8px;
+    color: #184e8e;
+}
+
+.section3 .item .description {
+    font-size: 15px;
+    margin-top: 15px;
+    margin-bottom: 0;
+}
